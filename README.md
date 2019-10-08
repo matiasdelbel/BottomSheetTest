@@ -1,6 +1,6 @@
-# BottomSheetTest
+# POC BottomSheet
 
-POC implementación de Mapa con BottomSheet + RecyclerView para el carousel...
+POC combining BottomSheet and RecyclerView.
 
 Video:
 https://youtu.be/RRSUF4qYA30
